@@ -1,0 +1,12 @@
+[user]
+	name = kirillz
+	email = kzasorin@gmail.com
+	signingkey = 0EE65399976DC9E8
+[gpg]
+	program = gpg2
+[commit]
+	gpgsign = true
+[init]
+	defaultBranch = main
+[pull]
+	rebase = true
